@@ -1,3 +1,3 @@
 FROM httpd
-LABEL pankaj
+LABEL name pankaj
 COPY . /usr/local/apache2/htdocs/
